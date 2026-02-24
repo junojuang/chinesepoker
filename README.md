@@ -2,6 +2,7 @@
 
 TLDR; Player draws 5 cards and receives payout based on the total points of the 5 cards (corresponding to the board)
 
+![Main board](/board_game.jpg)
 
 
 ---
