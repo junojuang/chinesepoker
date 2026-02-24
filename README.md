@@ -1,30 +1,12 @@
-# 扑克牌游戏 - Poker Card Game
+# Poker Card Game I saw while walking in Tsingdao Night Market
 
-A mobile-friendly Vue.js web application for the poker card game where players draw 5 cards and receive rewards based on their total points.
+TLDR; Player draws 5 cards and receives payout based on the total points of the 5 cards (corresponding to the board)
 
-## Setup
 
-1. Install dependencies:
-```bash
-npm install
-```
 
-2. Run development server:
-```bash
-npm run dev
-```
+---
 
-3. Build for production:
-```bash
-npm run build
-```
-
-4. Preview production build:
-```bash
-npm run preview
-```
-
-## Game Rules
+Game Rules
 
 - Draw 5 random cards from a deck
 - J = 11 points, Q = 12 points, K = 13 points
@@ -38,12 +20,3 @@ npm run preview
 - Vite
 - Firebase Firestore (for leaderboard)
 - CSS3 (Mobile-responsive design)
-
-## Firebase Setup
-
-See [FIREBASE_SETUP.md](./FIREBASE_SETUP.md) for detailed instructions on setting up Firebase for the leaderboard feature.
-
-## Deployment
-
-See [VERCEL_DEPLOY.md](./VERCEL_DEPLOY.md) for instructions on deploying to Vercel.
-
