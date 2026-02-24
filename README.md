@@ -4,6 +4,8 @@ TLDR; Player draws 5 cards and receives payout based on the total points of the 
 
 ![Main board](/board_game.jpg)
 
+<img src="images/chart.png" width="50%">
+
 
 ---
 
