@@ -7,6 +7,8 @@ TLDR; Player draws 5 cards and receives payout based on the total points of the 
 Can't believe I lost my 30yuan so I had to find out the house egde. (it was >60%) 
 <img src="/edge_board.jpg" width="50%">
 
+Try w/ npm install && npm run dev
+<img src="/online_game.png" width="50%">
 
 ---
 
